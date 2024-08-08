@@ -1,0 +1,21 @@
+{
+  "name": "telegramweatherbot",
+  "version": "1.0.0",
+  "description": "TelegramWeather",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "install": "^0.13.0",
+    "moment-timezone": "^0.5.45",
+    "node-telegram-bot-api": "^0.66.0",
+    "npm": "^10.8.2"
+  }
+}
